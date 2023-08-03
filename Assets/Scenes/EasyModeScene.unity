@@ -165,6 +165,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &7324987
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -319,6 +320,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &11546854
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -473,6 +475,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &16560714
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -627,6 +630,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &48765543
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -781,6 +785,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &49388479
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -935,6 +940,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &67036705
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1089,6 +1095,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &80861279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1243,6 +1250,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &89541909
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1397,6 +1405,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &134389375
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1551,6 +1560,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &145154127
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1705,6 +1715,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &152761767
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1859,6 +1870,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &160358963
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2013,6 +2025,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &174428476
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2167,6 +2180,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &283053891
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2321,6 +2335,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &283254132
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2475,6 +2490,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &285273909
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2790,6 +2806,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &380420659
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2944,6 +2961,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &383919208
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3098,6 +3116,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &386515857
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3252,6 +3271,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &420548924
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3406,6 +3426,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &423947199
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3560,6 +3581,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &430298722
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3714,6 +3736,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &448235160
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3868,6 +3891,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &492039836
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4022,6 +4046,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &516550098
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4268,6 +4293,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &540665333
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4422,6 +4448,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &542265898
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4576,6 +4603,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &555999587
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4730,6 +4758,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &566264499
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4884,6 +4913,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &570004745
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5038,6 +5068,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &571502638
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5192,6 +5223,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &587660455
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5346,6 +5378,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &595866872
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5500,6 +5533,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &611839240
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5654,6 +5688,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &708464554
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5808,6 +5843,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &718997400
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5962,6 +5998,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &726554772
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6116,6 +6153,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &747934784
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6270,6 +6308,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &759290237
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6424,6 +6463,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &763271622
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6578,6 +6618,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &772336585
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6732,6 +6773,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &774285033
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6886,6 +6928,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &798891508
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7040,6 +7083,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &823911618
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7194,6 +7238,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &874402390
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7348,6 +7393,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &889191683
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7502,6 +7548,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &902421612
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7656,6 +7703,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &932695396
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7810,6 +7858,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &937879802
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7964,6 +8013,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &975801561
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8118,6 +8168,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &994637414
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8272,6 +8323,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &999995366
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8426,6 +8478,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1001576612
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8580,6 +8633,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1019778843
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8734,6 +8788,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1030403880
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8888,6 +8943,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1038628842
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9042,6 +9098,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1043833202
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9196,6 +9253,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1047414103
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9350,6 +9408,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1079720682
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9504,6 +9563,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1088272151
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9658,6 +9718,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1097583828
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9812,6 +9873,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1113671461
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9966,6 +10028,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1116115393
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10120,6 +10183,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1125917473
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10274,6 +10338,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1133202011
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10428,6 +10493,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1170234527
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10582,6 +10648,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1172205230
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10736,6 +10803,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1185553162
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10890,6 +10958,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1209777100
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11044,6 +11113,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1230407079
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11198,6 +11268,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1262818670
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11352,6 +11423,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1287774141
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11506,6 +11578,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1326134524
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11660,6 +11733,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1327741401
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11814,6 +11888,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1328281931
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11968,6 +12043,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1368798054
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12122,6 +12198,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1376209137
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12234,6 +12311,109 @@ Transform:
   m_Father: {fileID: 363882497}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1384724894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1384724898}
+  - component: {fileID: 1384724897}
+  - component: {fileID: 1384724896}
+  - component: {fileID: 1384724895}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1384724895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384724894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1384724896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384724894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1384724897
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384724894}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 1
+  m_Camera: {fileID: 519420031}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1384724898
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384724894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1521999894}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &1386611725
 GameObject:
   m_ObjectHideFlags: 0
@@ -12276,6 +12456,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1386611727
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12430,6 +12611,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1392991074
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12584,6 +12766,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1403299066
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12738,6 +12921,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1418211237
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12892,6 +13076,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1421660984
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13046,6 +13231,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1435654045
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13200,6 +13386,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1461409006
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13354,6 +13541,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1467909941
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13508,6 +13696,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1468108617
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13662,6 +13851,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1497264452
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13816,6 +14006,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1514637133
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13928,6 +14119,86 @@ Transform:
   m_Father: {fileID: 363882497}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1521999893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1521999894}
+  - component: {fileID: 1521999896}
+  - component: {fileID: 1521999895}
+  m_Layer: 5
+  m_Name: GameOverText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1521999894
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1521999893}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1384724898}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -41}
+  m_SizeDelta: {x: 201.03, y: 54.05}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1521999895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1521999893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 40
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 40
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Test text
+--- !u!222 &1521999896
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1521999893}
+  m_CullTransparentMesh: 1
 --- !u!1 &1528508950
 GameObject:
   m_ObjectHideFlags: 0
@@ -13970,6 +14241,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1528508952
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14124,6 +14396,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1541791268
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14278,6 +14551,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1554320739
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14432,6 +14706,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1560350418
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14586,6 +14861,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1562414246
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14740,6 +15016,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1570997358
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14894,6 +15171,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1582998734
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15048,6 +15326,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1592537378
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15202,6 +15481,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1601281861
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15356,6 +15636,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1601704021
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15510,6 +15791,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1602825779
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15664,6 +15946,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1607721333
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15818,6 +16101,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1616371557
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15972,6 +16256,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1644744041
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16126,6 +16411,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1713333097
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16280,6 +16566,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1753172403
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16434,6 +16721,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1753274601
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16546,6 +16834,74 @@ Transform:
   m_Father: {fileID: 363882497}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1786963131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1786963134}
+  - component: {fileID: 1786963133}
+  - component: {fileID: 1786963132}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1786963132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1786963131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &1786963133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1786963131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1786963134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1786963131}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1796896325
 GameObject:
   m_ObjectHideFlags: 0
@@ -16588,6 +16944,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1796896327
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16742,6 +17099,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1804510424
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16896,6 +17254,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1834170784
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17050,6 +17409,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1839976987
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17204,6 +17564,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1878168392
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17358,6 +17719,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1882115617
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17512,6 +17874,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1889161282
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17666,6 +18029,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1894888639
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17820,6 +18184,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1900806822
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17974,6 +18339,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1911330892
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18128,6 +18494,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1950890631
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18282,6 +18649,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1952605541
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18436,6 +18804,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1955084970
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18590,6 +18959,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &1994614268
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18744,6 +19114,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2029037345
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18898,6 +19269,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2065412899
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19052,6 +19424,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2074935071
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19206,6 +19579,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2083979986
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19360,6 +19734,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2100292102
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19514,6 +19889,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2101031364
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19668,6 +20044,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2101250067
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19822,6 +20199,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2108647463
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19976,6 +20354,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2109747837
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20130,6 +20509,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2128703405
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20284,6 +20664,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 905f992fb77e8324883e08e08245b643, type: 3}
   - {fileID: 21300000, guid: fc512ac5bc26b52499be1cb4ecaf0eb0, type: 3}
   mineTexture: {fileID: 21300000, guid: 74a4740229a11b946aa34000ee9c520d, type: 3}
+  gameOverText: {fileID: 1521999895}
 --- !u!61 &2145173481
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Element : MonoBehaviour
 {
@@ -11,8 +12,10 @@ public class Element : MonoBehaviour
     bool mine;
 
     // Different textures
-    public Sprite[] emptyTextures;
-    public Sprite mineTexture;
+    [SerializeField] Sprite[] emptyTextures;
+    [SerializeField] Sprite mineTexture;
+
+    [SerializeField] Text gameOverText;
 
     public bool IsMine
     {
@@ -28,6 +31,8 @@ public class Element : MonoBehaviour
         
         int x = (int) transform.position.x;
         int y = (int) transform.position.y;
+
+        gameOverText.text = "";
 
         Playfield.elements[x, y] = this;
     }
@@ -52,9 +57,10 @@ public class Element : MonoBehaviour
     {
         if (mine)
         {
-            // TODO: uncover all mines
+            // TODO: toggle game over text
             // game over
             Playfield.uncoverMines();
+            gameOverText.text = "You lose";
             Debug.Log("you lose");
         } else
         {
@@ -70,6 +76,7 @@ public class Element : MonoBehaviour
 
             if (Playfield.isFinished())
             {
+                gameOverText.text = "You win";
                 Debug.Log("You win");
             }
         }
